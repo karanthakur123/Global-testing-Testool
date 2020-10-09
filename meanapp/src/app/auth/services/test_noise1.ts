@@ -1,0 +1,30 @@
+export class Test_Noise{
+   date_of_sampling: string;
+   name_of_plant: string;
+   emission_source_monitored:string;
+   stack_details:string;
+   location_of_sampling_point:string;
+   type_of_chimney:string;
+   from_source_of_emission:string;
+    from_roof_level:string;
+   from_ground_level:string;
+   diameter_of_stack:string;
+   sampling_duration:string;
+   parameters_tested:string;
+   monitoring_purpose:string;
+   product_manufactured:string;
+   control_measures:string;
+   material_recovery:string;
+   fugitive_emission:string;
+   general_observation	:string;
+   stack_temp:string;
+   ambient_temp:string;
+   avg_stack_vel:string;
+   qant_of_emission:string;
+   company_name:string;
+    sampling_started:string;
+   sampling_completed:string;
+   average_flowrate:string;
+   vol_air_sampled:string;
+   flowrate_of_gases:string;
+}
